@@ -109,9 +109,6 @@ nav li:hover .submenu{
 
 
 /* a enlever plus tard */
-nav > ul > li:hover a{
-  padding: 15px 30px 20px 30px;
-}
 
 
 
