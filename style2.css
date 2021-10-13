@@ -124,6 +124,11 @@ nav li:hover .submenu{
 }
 
 
+.menu-contact .submenu{
+  background-color: RGB(230, 100, 40);
+}
+
+
 .submenu li:hover a{
   color: #EEE;
   font-weight: bold; 
@@ -135,6 +140,10 @@ nav li:hover .submenu{
   background-color: RGB(000, 115, 200);
 }
 .menu-js .submenu li:hover{
+  background-color: RGB( 200, 165, 75);
+}
+
+.menu-contact .submenu li:hover{
   background-color: RGB( 200, 165, 75);
 }
 
